@@ -6,7 +6,7 @@ Superset is a data exploration platform designed to be visual, intuitive, and in
 
 To get your own Superset App running on Heroku, click the button below:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/akoksal/superset-on-heroku)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ekinakyurek/superset-on-heroku)
 
 ### Things you should know
 ##### After deployment
