@@ -1,1 +1,1 @@
-web: superset run --with-threads --reload
+web: superset run -p ${PORT} --with-threads --reload
